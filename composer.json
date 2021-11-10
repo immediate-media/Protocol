@@ -1,5 +1,5 @@
 {
-    "name"       : "hoa/protocol",
+    "name"       : "immediate-media/hoa-protocol",
     "description": "The Hoa\\Protocol library.",
     "type"       : "library",
     "keywords"   : ["library", "protocol", "resource", "stream", "wrapper"],
@@ -23,8 +23,8 @@
         "source": "https://central.hoa-project.net/Resource/Library/Protocol"
     },
     "require": {
-        "hoa/consistency": "~1.0",
-        "hoa/exception"  : "~1.0"
+        "immediate-media/hoa-consistency": "~1.0",
+        "immediate-media/hoa-exception"  : "~1.0"
     },
     "require-dev": {
         "hoa/test": "~2.0"
